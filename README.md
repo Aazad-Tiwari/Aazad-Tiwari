@@ -25,7 +25,7 @@
 ---
 
 ## 📄 Resume
-Check out my [Resume](link-to-resume.pdf) for a detailed view of my skills and experiences.
+Check out my [Resume]([link-to-resume.pd](https://drive.google.com/file/d/1yZNcjXJPcG94p02V9UbH6cnrEuUzpaCC/view?usp=sharing)) for a detailed view of my skills and experiences.
 
 ---
 
@@ -37,13 +37,12 @@ Check out my [Resume](link-to-resume.pdf) for a detailed view of my skills and e
 ---
 
 ## 🐬 How to Reach Me  
-- **Email:** your-email@example.com  
-- **LinkedIn:** [Aazad's LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- **GitHub:** [Aazad's GitHub](https://github.com/your-github-profile)  
+- **Email:** aazadtiwari15@gmail.com  
+- **LinkedIn:** [Aazad's LinkedIn](https://www.linkedin.com/iaazadtiwari)  
+- **GitHub:** [Aazad's GitHub](https://github.com/Aazad-Tiwari)  
 
 ---
 
-Feel free to check out my repositories, suggest ideas, or collaborate with me on projects!
 
 
-Thanks for visiting my GitHub profile! Feel free to reach out if you'd like to collaborate or chat about development. 😊
+Thanks for visiting my GitHub profile! Feel free to check out my repositories, suggest ideas, or collaborate with me on projects
