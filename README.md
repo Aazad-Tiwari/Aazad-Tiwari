@@ -1,15 +1,18 @@
-# Hi there, I'm Aazad 👋
+# 👋 Hi, I'm Aazad  
 
-Welcome to my GitHub profile! I'm a passionate Software Developer with a focus on full-stack development. I love building interactive web applications, exploring new technologies, and constantly learning.
+**A passionate Software Developer exploring full-stack web development!**  
 
-## 🚀 About Me
-- 🔭 I’m currently working on **Tweetube** – a video-sharing platform with features like user authentication, video management, and more.
-- 🌱 I’m currently learning **Data Structures and Algorithms (DSA)** and enhancing my backend skills.
-- 💬 Ask me about **React**, **Node.js**, **Express**, **MongoDB**, **TailwindCSS**, **Git**, and **RESTful APIs**.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/aazad-xyz)** | **[Email](mailto:aazad@example.com)**
+---
 
-## 🛠️ Skills
+## 🚀 About Me  
+- 🧑‍💻 Currently pursuing MCA (1st year).  
+- 🌱 Learning **Data Structures and Algorithms (starting Jan 1)** and exploring **backend technologies**.  
+- 💡 Interested in **web development, problem-solving, and learning new tech**.  
+- ✨ Always eager to collaborate and contribute to open-source projects.  
 
+---
+
+## 🛠️ Tech Stack 
 ### Frontend:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
@@ -19,23 +22,28 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with a focus o
 ### Tools & Others:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-## 🔧 Projects
-### [Tweetube](https://github.com/yourusername/tweetube)
-A video-sharing platform where users can upload videos, manage playlists, subscribe to channels, and more.
-
-### [BloggHive](https://github.com/yourusername/blogghive)
-A blogging platform with authentication, post management, and image storage, built with React and Appwrite.
+---
 
 ## 📄 Resume
 Check out my [Resume](link-to-resume.pdf) for a detailed view of my skills and experiences.
 
-## ⚡ Fun Facts
-- I enjoy building projects that help others learn and grow.
-- I'm always excited to try new programming languages and frameworks.
+---
 
-## 🖋️ Typewriter Effect (Animated)
-Here’s a typewriter animation GIF to represent my interest in learning and creating new things!
+## 💡 What I'm Working On  
+- Completing **Tweetube backend** and starting the frontend soon.  
+- Expanding my knowledge in **React** and **backend frameworks**.  
+- Applying for internships and opportunities to grow my skills.  
 
-![Typing...](https://media.giphy.com/media/3o7btPCcdN6gNQtttK/giphy.gif)
+---
+
+## 🐬 How to Reach Me  
+- **Email:** your-email@example.com  
+- **LinkedIn:** [Aazad's LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- **GitHub:** [Aazad's GitHub](https://github.com/your-github-profile)  
+
+---
+
+Feel free to check out my repositories, suggest ideas, or collaborate with me on projects!
+
 
 Thanks for visiting my GitHub profile! Feel free to reach out if you'd like to collaborate or chat about development. 😊
