@@ -25,7 +25,7 @@
 ---
 
 ## 📄 Resume
-Check out my [Resume]([link-to-resume.pd](https://drive.google.com/file/d/1yZNcjXJPcG94p02V9UbH6cnrEuUzpaCC/view?usp=sharing)) for a detailed view of my skills and experiences.
+Check out my [Resume]([link-to-resume.pd]/(https://drive.google.com/file/d/1yZNcjXJPcG94p02V9UbH6cnrEuUzpaCC/view?usp=sharing/)) for a detailed view of my skills and experiences.
 
 ---
 
