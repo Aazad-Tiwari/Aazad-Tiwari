@@ -38,7 +38,7 @@ Check out my [Resume](https://drive.google.com/file/d/1yZNcjXJPcG94p02V9UbH6cnrE
 
 ## 🐬 How to Reach Me  
 - **Email:** aazadtiwari15@gmail.com  
-- **LinkedIn:** [Aazad's LinkedIn](https://www.linkedin.com/iaazadtiwari)  
+- **LinkedIn:** [Aazad's LinkedIn](https://www.linkedin.com/in/iaazadtiwari)  
 - **GitHub:** [Aazad's GitHub](https://github.com/Aazad-Tiwari)  
 
 ---
