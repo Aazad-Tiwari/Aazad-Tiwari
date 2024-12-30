@@ -19,9 +19,6 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with a focus o
 ### Tools & Others:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-### Fun Features: 
-You can see these images like little badges that link to the logos of the technologies you know.
-
 ## 🔧 Projects
 ### [Tweetube](https://github.com/yourusername/tweetube)
 A video-sharing platform where users can upload videos, manage playlists, subscribe to channels, and more.
