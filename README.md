@@ -8,7 +8,7 @@
 - 🧑‍💻 Currently pursuing MCA (1st year).  
 - 🌱 Learning **Data Structures and Algorithms (starting Jan 1)** and exploring **backend technologies**.  
 - 💡 Interested in **web development, problem-solving, and learning new tech**.  
-- ✨ Always eager to collaborate and contribute to open-source projects.  
+- ✨ Always eager to **collaborate and contribute to open-source projects**.  
 
 ---
 
